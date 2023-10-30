@@ -1,0 +1,12 @@
+#contenedor{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#btn{
+    margin: 20px;
+    
+}
+#contenedor img{
+    width: 300px;
+}
